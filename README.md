@@ -12,6 +12,11 @@ These days I usually build cloud platforms and help with large transformation in
 - **Continuous Integration and Delivery**
 - **Establishing support and operations for live systems**
 
+## Notable Work
+
+- Built custom Kubernetes distribution based mostly on CoreOS stack on AWS. Full lifecycle-management with immutable infrastructure using CloudFormation, Bash, cloud-init and Container Linux.
+- Designed, built and supported container as a service platform based on self-hosted Kubernetes on AWS. The platform was hosting bussiness-critical services for 3+ years until managed Kubernetes became mainstream.
+
 ## Writing
 
 - You can find some of my blog posts on [medium.com/@antoniaklja](medium.com/@antoniaklja). I'm wring mostly on software enginering, management and cloud-native technologies. 
