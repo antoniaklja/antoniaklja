@@ -1,4 +1,4 @@
-I'm a engineering manager in a cloud-native world managing mid-sized cross-functional team at [VirtusLab](http://virtuslab.com/). 
+I'm engineering manager in a cloud-native world managing mid-sized cross-functional team at [VirtusLab](http://virtuslab.com/). 
 
 These days I usually build cloud platforms and help with large transformation in area of cloud-native. I'm still actively involved in technical design and programming.
 
