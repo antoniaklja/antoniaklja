@@ -14,7 +14,7 @@ These days I usually build cloud platforms and help with large transformation in
 
 ## Notable Work
 
-- Built custom Kubernetes distribution based mostly on CoreOS stack on AWS. Full lifecycle-management with immutable infrastructure using CloudFormation, Bash, cloud-init and Container Linux.
+- Built self-hosted production-ready Kubernetes distribution based mostly on CoreOS stack on AWS. Full lifecycle-management with immutable infrastructure using CloudFormation, Bash, cloud-init and Container Linux.
 - Designed, built and supported container as a service platform based on self-hosted Kubernetes on AWS. The platform was hosting bussiness-critical services for 3+ years until managed Kubernetes became mainstream.
 - Responsible for Kubernetes infrastructure standards, best practices and infrastructure as code written in Terraform within large organization (200+ devs).
 - Successful inner-sourcing initiative in area cloud infrastructures, mainly in Azure. Built an active community and contribution model.
