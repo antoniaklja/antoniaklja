@@ -11,6 +11,7 @@ These days I usually build cloud platforms and help with large transformation in
 - **Monitoring and Incident Management** - open source technologies like Grafana & Prometheus as well as enterprise products like Splunk, Datadog, VMware Weavefront etc.
 - **Continuous Integration and Delivery**
 - **Establishing support and operations for live systems**
+- **Managing engineering communities** - mostly around cloud infrastructure space.
 
 ## Notable Work
 
