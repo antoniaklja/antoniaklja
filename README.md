@@ -8,7 +8,7 @@ These days I usually build cloud platforms and help with large transformation in
 - **Building cloud infrastructures and platforms** - Kubernetes, AWS, GCP, Azure, VMWare Tanzu
 - **Service Mesh and inter-service communication** - general understanding of concepts and various technologies like Consul Service Mesh and Istio - still someting to expore more.
 - **Infrastructure as Code** - quite good experience with doing this at scale, including [inner-sourcing](https://innersourcecommons.org/getting-started/) approach.
-- **Monitoring and Incident Management** - open source technologies like Grafana & Prometheus as well as enterprise products like Splunk, Datadog, WMware Weavefront etc.
+- **Monitoring and Incident Management** - open source technologies like Grafana & Prometheus as well as enterprise products like Splunk, Datadog, VMware Weavefront etc.
 - **Continuous Integration and Delivery**
 - **Establishing support and operations for live systems**
 
